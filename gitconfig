@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kuozawa@pasona.tech
+	name = KunikoOzawa
